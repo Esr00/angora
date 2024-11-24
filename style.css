@@ -1,0 +1,9 @@
+#m-h{font-size: 5em;
+font-weight: 900;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+#but{background-color: blue;
+    transition: 0.5s;
+color: white;}
+
+#but:hover{background-color: bisque;}
